@@ -1,0 +1,265 @@
+.page {
+  background-color: rgba(237, 231, 222, 1);
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+}
+
+.section_1 {
+  height: 1080px;
+  background: url(./img/FigmaDDSSlicePNG82280bebc08f13e9c8a22e39ee06fe3c.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  width: 1920px;
+}
+
+.section_2 {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+}
+
+.section_3 {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  position: relative;
+  width: 1685px;
+  height: 100px;
+  margin: 20px 0 0 118px;
+}
+
+.text_1 {
+  width: 88px;
+  height: 31px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 22px;
+  font-family: PingFang SC-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 22px;
+  margin: 34px 0 0 575px;
+}
+
+.text_2 {
+  width: 88px;
+  height: 31px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 22px;
+  font-family: PingFang SC-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 22px;
+  margin: 34px 0 0 50px;
+}
+
+.text_3 {
+  width: 88px;
+  height: 31px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 22px;
+  font-family: PingFang SC-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 22px;
+  margin: 34px 0 0 50px;
+}
+
+.text-wrapper_1 {
+  background-color: rgba(28, 28, 28, 1);
+  border-radius: 70px;
+  height: 66px;
+  width: 120px;
+  margin: 17px 0 0 50px;
+}
+
+.text_4 {
+  width: 44px;
+  height: 31px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 22px;
+  font-family: PingFang SC-Medium;
+  font-weight: 500;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 22px;
+  margin: 18px 0 0 38px;
+}
+
+.text_5 {
+  width: 44px;
+  height: 31px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 22px;
+  font-family: PingFang SC-Semibold;
+  font-weight: 600;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 22px;
+  margin: 37px 0 0 363px;
+}
+
+.group_1 {
+  background-color: rgba(255, 255, 255, 1);
+  height: 37px;
+  width: 37px;
+  margin: 35px 119px 0 13px;
+}
+
+.box_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 16px;
+  height: 13px;
+  margin: 12px 0 0 11px;
+}
+
+.group_2 {
+  position: absolute;
+  left: 1526px;
+  top: 32px;
+  width: 42px;
+  height: 42px;
+}
+
+.section_4 {
+  width: 1920px;
+  height: 961px;
+  margin-bottom: 1px;
+}
+
+.section_5 {
+  width: 1530px;
+  height: 631px;
+  margin: 171px 0 0 234px;
+}
+
+.text-group_1 {
+  width: 464px;
+  height: 609px;
+}
+
+.paragraph_1 {
+  width: 464px;
+  height: 360px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 58px;
+  font-family: PingFang SC-Medium;
+  font-weight: 500;
+  text-align: left;
+  line-height: 90px;
+}
+
+.paragraph_2 {
+  width: 391px;
+  height: 80px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 26px;
+  font-family: Roboto-Regular;
+  font-weight: NaN;
+  text-align: left;
+  line-height: 40px;
+  margin-top: 169px;
+}
+
+.box_2 {
+  height: 620px;
+  background: url(./img/FigmaDDSSlicePNG54bf55a58d27b984997267de133ba262.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin-top: 11px;
+  width: 620px;
+}
+
+.block_1 {
+  width: 620px;
+  height: 620px;
+}
+
+.section_6 {
+  width: 220px;
+  height: 70px;
+  margin: 32px 0 57px 234px;
+}
+
+.box_3 {
+  background-color: rgba(28, 28, 28, 1);
+  border-radius: 80px;
+  position: relative;
+  width: 220px;
+  height: 70px;
+}
+
+.text_6 {
+  width: 96px;
+  height: 44px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 24px;
+  font-family: PingFang SC-Semibold;
+  font-weight: 600;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 185px;
+  margin: 13px 0 0 44px;
+}
+
+.section_7 {
+  background-image: linear-gradient(
+    271deg,
+    rgba(255, 255, 255, 0.2) 0,
+    rgba(255, 255, 255, 0) 100%
+  );
+  border-radius: 50%;
+  height: 30px;
+  border: 1px gradient;
+  width: 30px;
+  margin: 20px 34px 0 16px;
+}
+
+.box_4 {
+  width: 14px;
+  height: 10px;
+  border: 1px solid rgba(255, 255, 255, 1);
+  margin: 10px 0 0 9px;
+}
+
+.section_8 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 220px;
+  height: 70px;
+}
+
+.section_9 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1920px;
+  height: 21px;
+}
+
+.section_10 {
+  height: 386px;
+  background: url(./img/FigmaDDSSlicePNG37a20e1d6e72be96c355894604606234.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  width: 386px;
+  margin: -122px 0 0 118px;
+}
+
+.box_5 {
+  width: 220px;
+  height: 100px;
+  margin: 142px 0 0 83px;
+}

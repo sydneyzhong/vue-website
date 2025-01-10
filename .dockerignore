@@ -1,0 +1,27 @@
+# 忽略操作系统生成的无用文件
+.DS_Store             # macOS 下的临时文件
+Thumbs.db             # Windows 下的临时文件
+
+# 忽略 node_modules 和 npm 缓存
+node_modules/         # 本地依赖模块目录，不需要打包到镜像中
+npm-debug.log         # npm 的调试日志文件
+yarn-error.log        # Yarn 的错误日志文件
+
+# 忽略构建相关文件夹
+dist/                 # Vue.js 构建输出目录，会通过 Dockerfile COPY 指令单独复制
+build/                # 构建输出目录
+.cache/               # 构建时的临时缓存文件
+
+# 忽略 IDE 或编辑器的配置
+.vscode/              # VS Code 配置文件
+.idea/                # IntelliJ IDEA 配置文件
+*.sublime-project     # Sublime Text 项目文件
+*.sublime-workspace   # Sublime Text 工作区文件
+
+# 忽略日志文件
+*.log                 # 所有日志文件
+
+# 忽略 Dockerfile 和 .dockerignore 文件本身（可选）
+Dockerfile            # 避免 Dockerfile 自身被打包到镜像中
+.dockerignore         # 避免 .dockerignore 文件自身被打包到镜像中
+
